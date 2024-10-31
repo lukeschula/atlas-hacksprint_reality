@@ -26,7 +26,7 @@ The project deadline was only a week. We encountered several challenges but mana
 ## Authors
 - Jessica Dison - [GitHub](https://github.com/jessasesh)
 - Ryan Donaldson - [GitHub](https://github.com/donaldrs01)
-- Luke Schula - [GitHub](https://github.com/lukeschula) [Linedin](https://www.linkedin.com/in/luke-schula-480548169/)
+- Luke Schula - [GitHub](https://github.com/lukeschula) [Linkedin](https://www.linkedin.com/in/luke-schula-480548169/)
 
 
 ---

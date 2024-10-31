@@ -1,5 +1,7 @@
 <img src="check.png"
      alt="Check Image" />
+<img src="Example.png"
+     alt="Example Image" />
 
 # Reality Check - Separating Fact from Fiction
 
@@ -22,9 +24,10 @@ The project deadline was only a week. We encountered several challenges but mana
 - Making the game more challenging by using an API or LLM to generate more believable news stories.
 
 ## Authors
-- Jessica Dison - [GitHub](#)
-- Ryan Donaldson - [GitHub](#)
-- Luke Schula - [GitHub](#)
+- Jessica Dison - [GitHub](https://github.com/jessasesh)
+- Ryan Donaldson - [GitHub](https://github.com/donaldrs01)
+- Luke Schula - [GitHub](https://github.com/lukeschula) [Linedin](https://www.linkedin.com/in/luke-schula-480548169/)
+
 
 ---
 
@@ -36,10 +39,10 @@ The journey of developing **Reality Check** began during our HackSprint project 
 In the brainstorming phase, we outlined the core mechanics: a simple quiz format where players would click on either a true or false story. We aimed for a clean, user-friendly interface to ensure an engaging experience. The project deadline was tight—only a week—so we prioritized essential features to get a functional version up and running quickly.
 
 ## Implemented Features
-1. **Story Fetching**: 
+1. **Story Fetching**:
    - Implemented a function to load stories from a JSON file, allowing for easy data management.
-   
-2. **User Interface**: 
+
+2. **User Interface**:
    - Designed a simple UI with containers for true and false stories, along with a start button and feedback messages.
 
 3. **Game Logic**:
